@@ -1,0 +1,19 @@
+{
+  "name": "githubexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigfrid100/Example_repository.git"
+  },
+  "author": "Sergeiev Kyrylo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zigfrid100/Example_repository/issues"
+  },
+  "homepage": "https://github.com/zigfrid100/Example_repository#readme"
+}
